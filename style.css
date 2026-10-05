@@ -1,0 +1,36 @@
+body{
+ 
+}
+
+header{
+  background: #e2f2a3;
+  padding: 20px;
+  position: fixed;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.menu a{
+  padding: 10px 20px;
+  display: block;
+  margin: 2px;
+  color: #000;
+}
+
+a:link { 
+  background: #d4e78b;
+  text-decoration: none;
+}
+a:visited { 
+   background: hsl(62, 87%, 50%);
+}
+
+a:hover {
+  text-decoration: underline;
+  background: hsl(61, 91%, 83%);
+}
+a:active {
+  
+ }
